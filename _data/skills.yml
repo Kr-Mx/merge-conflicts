@@ -1,9 +1,13 @@
 # Skills
 
-# Education
-- skill: Education
-  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
+- skill: PROGRAMMING LANGUAGES
+  description: JavaScript (ES6), HTML, CSS
 
-# Leadership
-- skill: Leadership
-  description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+- skill: TOOLS AND TECHNOLOGIES
+  description: ReactJS, Redux, Node.js, Material-UI, Bootstrap, SCSS, Express, MongoDB, Jest
+
+- skill: OTHER
+description: Git, Chrome Web Tools, npm, WebStorm
+
+  - skill: ENGLISH
+description: Pre-Intermediate (A2+)
