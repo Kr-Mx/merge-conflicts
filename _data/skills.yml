@@ -1,13 +1,17 @@
 # Skills
 
+#PROGRAMMING LANGUAGES
 - skill: PROGRAMMING LANGUAGES
   description: JavaScript (ES6), HTML, CSS
 
+#TOOLS AND TECHNOLOGIES
 - skill: TOOLS AND TECHNOLOGIES
   description: ReactJS, Redux, Node.js, Material-UI, Bootstrap, SCSS, Express, MongoDB, Jest
 
+#OTHER
 - skill: OTHER
-description: Git, Chrome Web Tools, npm, WebStorm
+  description: Git, Chrome Web Tools, npm, WebStorm
 
-  - skill: ENGLISH
-description: Pre-Intermediate (A2+)
+#ENGLISH
+- skill: ENGLISH
+  description: Pre-Intermediate (A2+)
